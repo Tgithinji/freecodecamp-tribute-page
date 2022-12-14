@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-size:16px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #main {
+    margin: 30px 10px;
+    padding: 15px;
+  }
+  #title {
+    text-decoration: underline;
+    
+  }
+  #img-div #img-caption {
+    font-weight: lighter;
+    font-style: italic;
+  }
+  #image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    height:auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+
+  a {
+    font-weight: 800;
+  }
